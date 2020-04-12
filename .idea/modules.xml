@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmReminder.iml" filepath="$PROJECT_DIR$/AlarmReminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-NotificationReminder.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-NotificationReminder.iml" group="NotificationReminder" />
+      <module fileurl="file://$PROJECT_DIR$/app/App.iml" filepath="$PROJECT_DIR$/app/App.iml" group="NotificationReminder/App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
