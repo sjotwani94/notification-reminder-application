@@ -4,3 +4,6 @@ Steps to download Application
 2) Open notification-reminder-application-master application.
 3) Android Studio automatically builds your application.
 4) Now run your application.
+
+Instructions For Using Application:
+Refer the User Manual PDF/Video File attached herewith for the same.
