@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\f1a915dd8f5009fadcb9c13eea9792923888f289\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0db8e1dc3097c0db8425b339e5e720ef6e918400">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_101db76285037fe5e2728fe2674776443577e492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\d96a7767d1327d14cf13365e0242e65860a58f99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6aaf52b8d6b8279df4de274463454ca11944fec6">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_6aabc4639916712299a78d1acd565246a4288f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\7b1d388f2ed03fce4da02d2406dbbc102c57ed1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_15a8fb502123dea19b5959c591ce8dcd34b55a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\69978f717570ff9cc85348d764dd415f3e70901b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_e4ee44b7ad29c26d2c0c814bf6e461da5f78be10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\681a917b37c2e6a16893445fcac44d4d27658d6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_a9cb39b0b696fa1fc5128713313a9107af4521c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\7d1fa356f7de0bd546abd6d9c09928099b5226cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_8a211284b757fbd5c6a84ec46560970f697c9c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\faf8049c23694797a7265d9eb7d01ccf32579ade\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_211a370682821607edde09ff81b319c7a8dada96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\89b1062787723a8694627289317e7f39ede3877c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_c7e877f2e7afbb759dca2e4872fe48450ac38e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\library-2.4.0_8ac7726c6d7d7016b4b2ad09103288d7bbd58645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\094c4a78e92f22ffde7c78e486574d90c487cc03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_62112c72eafd3948ee74aa37a234ebfaacde096a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\16cc3c063a55019ac6e505864f47538ef778e7ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_86d8cb32683db3e446c04ed79125b2e3ae728f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\fc5b1b3fd9ce0000f3cd1684bbb6f9a03589cdc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_41b408bad2fd8f2b2e36d3a381c43bb68fdd5759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\3f2ec778162d17094fad6723306ccded7f519d58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_b40cb2ce9b7858a497ce906ed2791eee49fa239c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_06e74f8d19762e2271e572cfb3214d52c91306b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\74aad439fa1e1a357f7abac5760cd9fe8cb1a746\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_50ef4d573cef5c10d10e027eac3493e52a1cd665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\1915057e3630c69aabd30d8a35a1fe2bf7acc68d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_63ea28d06e9c8dfa4e43bdddb1adcd1c3704940f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\383b7064db7ab04485965af0d4119eb232f8fd40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_478095ae320b4510323c9077289c04d94b5b8676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\c8d77d57a53b1e93394875b61f8009faa4e94a6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_434a021f57b131180560e51b8bce0ab692e79612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c3b645ebbbe7155ffdc7f4f2625e9a463b5999b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\4ba1e2a0245080279144d7ddb66be0b8bcdc8f1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_a49a675d71e33fb44e039901b411cedf3fb76209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KK\.android\build-cache\17dbe54896a2f6085f203da0f0f6982c8eb9e5f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\KK\AndroidStudioProjects\AlarmReminder-NotificationTitleSound\app\build\intermediates\pre-dexed\debug\classes_d7c5dc2b3ff754e5e52edfef3f28c7501c5b6740.jar" />
+    </item>
+
+</items>
